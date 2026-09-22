@@ -22,7 +22,7 @@ Every project in my portfolio is documented as a case study: the business questi
 
 | Case study | Business problem | What I built | Status |
 |---|---|---|---|
-| Digital Sales & Revenue Analytics | Limited visibility into product traction, policy sales and revenue from digital platforms | PySpark transformation and data-quality layer on Databricks, validated against the transaction system | 🛠️ Write-up in progress |
+| [Digital Sales & Revenue Analytics](https://github.com/taylor-daniel/data-analytics-portfolio/tree/main/case-studies/digital-sales-revenue-analytics) | No view of product traction, policy sales or premium from digital platforms, and no pipeline to build one | PySpark transformation and data-quality layer on Databricks, reconciled against the transaction system, served to Power BI via Microsoft Fabric | ✅ Published |
 | HR & Workforce Analytics Suite | Reporting on workforce KPIs across the employee lifecycle | Automated reporting and interactive dashboards covering headcount, attrition, L&D, performance and talent | 🛠️ Write-up in progress |
 
 ➡️ **Full portfolio:** [data-analytics-portfolio](https://github.com/taylor-daniel/data-analytics-portfolio)
