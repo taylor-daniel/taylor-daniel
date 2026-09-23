@@ -24,6 +24,7 @@ Every project in my portfolio is documented as a case study: the business questi
 |---|---|---|---|
 | [Digital Sales & Revenue Analytics](https://github.com/taylor-daniel/data-analytics-portfolio/tree/main/case-studies/digital-sales-revenue-analytics) | No view of product traction, policy sales or premium from digital platforms, and no pipeline to build one | PySpark transformation and data-quality layer on Databricks, reconciled against the transaction system, served to Power BI via Microsoft Fabric | ✅ Published |
 | [HR & Workforce Analytics Suite](https://github.com/taylor-daniel/data-analytics-portfolio/tree/main/case-studies/hr-workforce-analytics) | HR reporting took days of manual spreadsheet work each month, with no consistent view of headcount, attrition or employee experience | Automated pipeline and Power BI suite covering workforce composition, attrition hotspots and employee experience, refreshed weekly and reconciled to the HR system | ✅ Published |
+| [HR Systems & Process Automation](https://github.com/taylor-daniel/data-analytics-portfolio/tree/main/case-studies/hr-systems-process-automation) | HR ran on forms, email and spreadsheets, with no tracking and inconsistent data capture | Requirements, process design and configuration that put ~27 HR processes on a cloud HRIS, plus ongoing support and vendor liaison | ✅ Published |
 
 ➡️ **Full portfolio:** [data-analytics-portfolio](https://github.com/taylor-daniel/data-analytics-portfolio)
 
