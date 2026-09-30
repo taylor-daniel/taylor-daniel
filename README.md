@@ -4,7 +4,9 @@
 
 I work across the data lifecycle: pulling data from operational systems, cleaning and transforming it at scale with **PySpark and SQL**, modelling it for analysis, and delivering **Power BI** reporting built around the decisions people need to make. I've applied this to **digital sales and revenue analytics** and **workforce analytics**, and I care most about the part after the dashboard: the decision it enables.
 
-📍 Lagos, Nigeria · 🔗 [LinkedIn](https://www.linkedin.com/in/taylordaniel2)
+📍 Lagos, Nigeria · 🔗 [LinkedIn](https://www.linkedin.com/in/taylordaniel2) · 🌐 [Portfolio site](https://taylor-daniel.github.io)
+
+📄 CV: [Data & Analytics](https://taylor-daniel.github.io/cv/daniel-taylor-data-analytics-cv.pdf) · [HR Technology](https://taylor-daniel.github.io/cv/daniel-taylor-hr-technology-cv.pdf)
 
 ---
 
