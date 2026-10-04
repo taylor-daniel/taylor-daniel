@@ -30,6 +30,8 @@ Every project in my portfolio is documented as a case study: the business questi
 
 ➡️ **Full portfolio:** [data-analytics-portfolio](https://github.com/taylor-daniel/data-analytics-portfolio)
 
+💻 **Code:** [pyspark-data-quality-pipeline](https://github.com/taylor-daniel/pyspark-data-quality-pipeline) — the transformation and data-quality pattern above, runnable on synthetic data
+
 ---
 
 ## 🛠️ Toolkit
